@@ -122,31 +122,31 @@ The Power BI report contains five interactive analytical pages. It uses a relati
 
 Summarizes order volume, delivered payment value, customers, completion rate, review performance, monthly payment trends and the leading customer states.
 
-![Executive Overview](images/executive-overview.png)
+![Executive Overview](images/Executive%20Overview.png)
 
 ### 2. Sales & Delivery
 
 Examines delivered payment value, order volume, average order value, late-delivery incidence and on-time delivery performance.
 
-![Sales and Delivery](images/sales-delivery.png)
+![Sales & Delivery Performance](images/Sales%20%26%20Delivery%20Performance.png)
 
 ### 3. Customer Analysis
 
 Explores geographic distribution, repeat purchasing, customer mix, average customer activity and historical recency groups.
 
-![Customer Analysis](images/customer-analysis.png)
+![Customer Analysis](images/Customer%20Analysis.png)
 
 ### 4. Seller & Product Performance
 
 Compares seller concentration, product-category value, seller locations, order-item activity, freight value and leading sellers.
 
-![Seller and Product Performance](images/seller-product-performance.png)
+![Seller & Product Performance](images/Seller%20%26%20Product%20Performance.png)
 
 ### 5. Reviews & Satisfaction
 
 Analyzes review-score distribution, low-review incidence, monthly low-review trends and delivery-related review patterns.
 
-![Reviews and Satisfaction](images/reviews-satisfaction.png)
+![Reviews & Satisfaction](images/Reviews%20%26%20Satisfaction.png)
 
 The Power BI report is available here:
 
