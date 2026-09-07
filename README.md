@@ -217,9 +217,22 @@ git lfs pull
 * Forecasting and predictive-model notebooks are analytical exercises rather than production forecasts or deployed decision systems.
 * Missing lifecycle timestamps, review text and product attributes limit some analyses.
 
+
 ## Author
 
-**Saad Maher**
-Data Analyst Portfolio Project
+### Saad Maher
 
-[GitHub Profile](https://github.com/ImmoBre)
+Data Analyst focused on transforming raw data into clear insights using **Python, SQL, Excel, and Power BI**.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Immobre-181717?style=for-the-badge\&logo=github)](https://github.com/Immobre)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saad_Maher-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/saad-m-83b846356/)
+
+*Feel free to explore my other projects and connect with me.*
+
+
+---
+
+## License
+
+This project is licensed under the MIT License.
+
