@@ -1,5 +1,11 @@
 # Olist E-commerce Business Analytics
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black?logo=pandas)
+![MySQL](https://img.shields.io/badge/MySQL-Business%20Queries-blue?logo=mysql)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 An end-to-end data analytics project examining sales, delivery performance, customer activity, seller concentration, product categories, and customer satisfaction in the Brazilian Olist marketplace.
 
 The project combines **Python**, **MySQL**, and **Power BI** to transform raw marketplace data into validated analytical datasets, reproducible analysis, and an interactive five-page dashboard.
