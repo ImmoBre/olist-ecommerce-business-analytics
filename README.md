@@ -8,9 +8,9 @@
 
 ## 🚀 Project Overview
 
-A multi-stage business analytics project examining sales, delivery performance, customer activity, seller concentration, product categories, and customer satisfaction in the Brazilian Olist marketplace.
+In this multi-stage business analytics project, I examined sales, delivery performance, customer activity, seller concentration, product categories, and customer satisfaction within the Brazilian Olist marketplace.
 
-The project combines **Python**, **MySQL**, and **Power BI** to transform raw marketplace data into validated analytical datasets, reproducible analysis, and an interactive five-page dashboard.
+I used **Python**, **MySQL**, and **Power BI** to transform raw marketplace data into validated analytical datasets, reproducible analyses, and an interactive five-page dashboard.
 
 ## Project Objectives
 
