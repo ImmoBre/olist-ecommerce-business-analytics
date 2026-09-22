@@ -158,7 +158,7 @@ Analyzes review-score distribution, low-review incidence, monthly low-review tre
 
 The Power BI report is available here:
 
-[Open the Power BI report](power-bi/Olist_Ecommerce_Analytics_Dashboard.pbix)
+[Open the Power BI report](powerbi/Olist_Ecommerce_Analytics_Dashboard.pbix)
 
 ## Repository Structure
 
